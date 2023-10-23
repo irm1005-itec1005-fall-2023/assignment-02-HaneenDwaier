@@ -49,7 +49,14 @@ nav {
 img{
   border-radius: 50%;
 }
+button {
+  transition-duration: 0.4s;
+}
 
+button:hover {
+  background-color: #6a4caf; /* Green */
+  color: white;
+}
 
 h2 {
   text-align: center;
