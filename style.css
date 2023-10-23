@@ -25,7 +25,9 @@ header h2 {
   font-size: 1.2rem;
 }
 
-
+ul.a {
+  list-style-type: circle;
+}
 
 nav {
   float: left;
