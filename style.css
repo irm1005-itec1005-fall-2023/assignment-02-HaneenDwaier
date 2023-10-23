@@ -3,17 +3,43 @@
  * CSS FILE
  */
 
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: #d3e7ed;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+ section {
+  background-color: rgb(239, 216, 236);
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 100px;
 }
 
+img{
+  border-radius: 50%;
+}
 h1 {
-  font-size: 2rem;
+  font-size: 8rem;
   font-weight: bold;
   text-align: center;
-  color: #023047;
+  color: rgb(106, 17, 106);
+}
+li {
+  display: inline;
+}
+h2 {
+  text-align: center;
+  background-color: rgb(225, 167, 207);
+  margin: 10px 20px 30px 40px;
+  padding: 10px;
+  padding-left: 2%;
+  border: 5px solid rgb(108, 5, 48)
+}
+
+
+p {
+  color: black;
+  width: 100%;
+  font-size: large;
 }
