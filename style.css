@@ -35,9 +35,7 @@ button {
   margin: 4px 2px;
   cursor: pointer;
 }
-ul.a {
-  list-style-type: circle;
-}
+
 
 nav {
   float: left;
@@ -52,9 +50,7 @@ img{
   border-radius: 50%;
 }
 
-li {
-  display: inline;
-}
+
 h2 {
   text-align: center;
   background-color: rgb(225, 167, 207);
